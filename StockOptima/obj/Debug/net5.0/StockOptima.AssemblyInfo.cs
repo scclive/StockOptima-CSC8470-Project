@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StockOptima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4ef3fdec64c1b05ed1eaefa5ecf87ba791afab0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f243ac0da20a61e6604ffd90242d5f2c9226d0c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("StockOptima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StockOptima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

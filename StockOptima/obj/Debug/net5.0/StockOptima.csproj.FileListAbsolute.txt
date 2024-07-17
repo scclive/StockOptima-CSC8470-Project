@@ -466,7 +466,6 @@ C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-
 C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Products\ListProducts.cshtml.g.cs
 C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Reports\GeneralReports.cshtml.g.cs
 C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Sales\SalesMenu.cshtml.g.cs
-C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Settings\Settings.cshtml.g.cs
 C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Shared\_FormsLayout.cshtml.g.cs
 C:\Users\Lynx\Desktop\Assignments\Bilal Hassan Assignments - 5\CSC8470 - Server-side Web Technology\A2\Project\StockOptima-CSC8470-Project\StockOptima\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs

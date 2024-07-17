@@ -14,7 +14,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "InventoryWebApplication": {
+    "StockOptima": {
       "commandName": "Project",
       "dotnetRunMessages": "true",
       "launchBrowser": true,

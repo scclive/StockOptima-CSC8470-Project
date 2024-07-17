@@ -6,15 +6,29 @@
     Layout = "_FormsLayout";
 }
 
-<form class="simple-form" accept-charset="UTF-8" asp-controller="Authentication" asp-action="Authenticate" method="post">
-    <div class="form-section">
-        <label class="form-label" for="nameInput">Name: </label>
-        <input name="name" type="text" id="nameInput">
-        <br>
-
-        <label class="form-label" for="passwordInput">Password: </label>
-        <input name="password" type="password" id="passwordInput">
-        <br>
+<div class="container mt-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card shadow-sm">
+                <div class="card-header text-center">
+                    <h3 class="mb-0">Login</h3>
+                </div>
+                <div class="card-body">
+                    <form accept-charset="UTF-8" asp-controller="Authentication" asp-action="Authenticate" method="post">
+                        <div class="form-group mb-3">
+                            <label for="nameInput">Name:</label>
+                            <input name="name" type="text" id="nameInput" class="form-control" required>
+                        </div>
+                        <div class="form-group mb-3">
+                            <label for="passwordInput">Password:</label>
+                            <input name="password" type="password" id="passwordInput" class="form-control" required>
+                        </div>
+                        <div class="d-grid">
+                            <button class="btn btn-primary btn-block" type="submit">Login</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
     </div>
-    <button class="btn-primary" type="submit">Send</button>
-</form>
+</div>
